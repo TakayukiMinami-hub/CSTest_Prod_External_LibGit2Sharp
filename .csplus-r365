@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "workspaceUrl": "https://r-7jyd4w.365.altium.com/",
+  "workspaceId": "grid:global::platform:workspace/abee35d0-eda2-4a62-b265-5fa7595d7b02",
+  "workspaceAuthId": "abee35d0-eda2-4a62-b265-5fa7595d7b02",
+  "solutionId": "grid:workspace:abee35d0-eda2-4a62-b265-5fa7595d7b02:platform:solution/D2AE32A8-35CF-4710-861C-55FB9CB5F594",
+  "softwareProjectId": "grid:workspace:abee35d0-eda2-4a62-b265-5fa7595d7b02:software:software-project/761AB2F3-64E7-4C2A-82CC-30A8E07235AC",
+  "createdUtc": "2026-09-09T10:46:08.9374660Z",
+  "projectName": "csplus_Uad_external_LibGit2Sharp",
+  "repositoryUrl": "https://github.com/TakayukiMinami-hub/CSTest_Prod_External_LibGit2Sharp.git",
+  "parentSolutionIds": [
+    "grid:workspace:abee35d0-eda2-4a62-b265-5fa7595d7b02:platform:solution/D2AE32A8-35CF-4710-861C-55FB9CB5F594"
+  ],
+  "environmentId": "Prod"
+}
